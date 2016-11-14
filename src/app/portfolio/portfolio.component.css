@@ -1,0 +1,11 @@
+#portfolio-header {
+  background-image: url('../assets/img/portfolio_header.jpg');
+}
+
+a {
+  text-decoration: none;
+}
+
+.typewrite {
+  color: #fff;
+}
