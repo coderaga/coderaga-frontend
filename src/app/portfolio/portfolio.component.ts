@@ -12,11 +12,4 @@ export class PortfolioComponent implements OnInit {
   ngOnInit() {
   }
 
-  // TODO:
-  // optmize this.. animate... 
-  // and if possible use routerLink 
-  goTo(location: string): void {
-    window.location.hash = location;
-  }
-
 }
